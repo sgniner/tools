@@ -1,5 +1,4 @@
 echo "This script is hosted on GitHub"
-echo "Your hostname is $hostname"
+echo "Your hostname is:"
+hostname
 
-echo "Here's lots of info about the sytem your running and what hotfixes are installed"
-systeminfo
