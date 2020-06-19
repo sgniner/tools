@@ -1,4 +1,4 @@
 echo "This script is hosted on GitHub"
 echo "Your hostname is:"
 hostname
-
+PAUSE
