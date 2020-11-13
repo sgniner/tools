@@ -2882,4 +2882,4 @@ Function Main
 
 Main
 }
-$pebytes = [io.file]::readallbytes('c:\windows\system32\calc.exe'); invoke-reflectivepeinjection -pebytes $pebytes
+
